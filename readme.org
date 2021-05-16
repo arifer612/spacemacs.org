@@ -5,7 +5,7 @@ This repo creates a template for your spacemacs config to allow configuration wi
 Clone this repo as your =~/.spacemacs.d= directory.
 
 #+begin_example
-  git clone https://github.com/ralesi/spacemacs.org.git ~/.spacemacs.d
+  git clone https://github.com/arifer612/spacemacs.org.git ~/.spacemacs.d
 #+end_example
 
 Start up Spacemacs and it will use the default settings as read in =spacemacs.org=. If you would like to use your existing settings, port them into =spacemacs.org= under the =dotspacemacs/layers= and =dotspacemacs/init= headings, otherwise the default settings will be used.
